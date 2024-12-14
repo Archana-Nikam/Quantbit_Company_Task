@@ -1,4 +1,4 @@
-# Quantbit_Company_Tasl
+# Quantbit_Company_Task
 Task #13: Binary Search Problem
 Overview
 This repository contains the solution for Task #13 from the Python Developer Intern assessment by Quantbit Technologies. The task involves implementing a Binary Search Algorithm to efficiently find the index of a target element in a sorted array.Binary search is an optimized searching algorithm that operates on sorted data and reduces the search space by half in each iteration, achieving a time complexity of O(log n).
